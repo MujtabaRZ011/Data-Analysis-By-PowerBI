@@ -1,6 +1,6 @@
 # Bangalore Zomato Analysis
 #### Interactive Dashboard Link
-[Click Here](https://app.powerbi.com/view?r=eyJrIjoiODAxYTFjYmItOTFkYS00ZThkLWE1ZjctYTYxMmRjOGYzNjdlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+[Click Here](https://www.novypro.com/project/bangalore-zomato-odyssey-unveiling-culinary-insights-)
 
 ## Exciting News!
 Hey everyone! I just wrapped up a cool data analysis project and this time it's all about the food scene in Bangalore using Zomato data! 
@@ -33,4 +33,4 @@ Thank you!
 #### [Click here to interact with the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODAxYTFjYmItOTFkYS00ZThkLWE1ZjctYTYxMmRjOGYzNjdlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 
-##### If you want to Download the dataset [Click here](https://www.kaggle.com/datasets/absin7/zomato-bangalore-dataset/download?datasetVersionNumber=1)
+##### If you want to Download the dataset [Click here](https://www.novypro.com/project/bangalore-zomato-odyssey-unveiling-culinary-insights-)
