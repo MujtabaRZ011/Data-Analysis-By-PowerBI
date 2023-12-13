@@ -1,6 +1,6 @@
 # Generating Insights for Supply Chain in FMCG domain!
 #### Interactive Dashboard Link
-[Click Here] (https://www.novypro.com/project/supply-chain-insights-in-the-fmcg-domain)
+[Click Here](https://www.novypro.com/project/supply-chain-insights-in-the-fmcg-domain)
 
 Exciting Update! Just completed a significant Data Analysis project on generating Insights to solve a Supply Chain Issue in the FMCG domain! 
 
