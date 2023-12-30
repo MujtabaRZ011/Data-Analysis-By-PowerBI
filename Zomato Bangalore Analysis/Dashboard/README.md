@@ -1,3 +1,4 @@
+![Bangalore Zomato Analysis](https://github.com/MujtabaRZ011/Data-Analysis-By-PowerBI/blob/main/Zomato%20Bangalore%20Analysis/Dashboard/Zomato%20Bangalore%20%20Analysis.png)
 # Bangalore Zomato Analysis
 #### Interactive Dashboard Link
 [Click Here](https://www.novypro.com/project/bangalore-zomato-odyssey-unveiling-culinary-insights-)
