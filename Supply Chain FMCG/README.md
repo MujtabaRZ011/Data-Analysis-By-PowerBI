@@ -1,3 +1,4 @@
+![Supply Chain FMCG Dashboard](https://github.com/MujtabaRZ011/Data-Analysis-By-PowerBI/blob/main/Supply%20Chain%20FMCG/Dashboard/Supply%20Chain%20Dashboard.png)
 # Generating Insights for Supply Chain in FMCG domain!
 #### Interactive Dashboard Link
 [Click Here](https://www.novypro.com/project/supply-chain-insights-in-the-fmcg-domain)
